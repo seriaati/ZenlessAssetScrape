@@ -1,0 +1,17 @@
+[tool.poetry]
+authors = ["seria <seria.ati@gmail.com>"]
+description = "Zenless Zone Zero asset scrape"
+license = "GPL-3.0-only"
+name = "zenlessassetscrape"
+package-mode = false
+readme = "README.md"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+fake-useragent = "^1.5.1"
+python = "^3.11"
+requests = "^2.32.3"
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core"]
