@@ -12,10 +12,10 @@ data_lite_path.mkdir(exist_ok=True)
 
 
 def write_data(filename: str, data: Any):
-    with open(data_path / filename, "w") as f:
-        json.dump(data, f, indent=4)
-    with open(data_lite_path / filename, "w") as f:
-        json.dump(data, f)
+    with open(data_path / filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+    with open(data_lite_path / filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False)
 
 
 disc_icons = hoyowiki.get_disc_drive_icons()
