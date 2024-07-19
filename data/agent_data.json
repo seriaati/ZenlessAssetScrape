@@ -4,160 +4,206 @@
         "name": "Anby",
         "full_name": "Anby Demara",
         "icon_url": "https://static.dotgg.gg/zenless/characters/anby.webp",
-        "faction": "Cunning Hares"
+        "faction": "Cunning Hares",
+        "element": "Electric",
+        "beta": false
     },
     "1021": {
         "id": "1021",
         "name": "Nekomata",
         "full_name": "Nekomiya Mana",
         "icon_url": "https://static.dotgg.gg/zenless/characters/nekomata.webp",
-        "faction": "Cunning Hares"
+        "faction": "Cunning Hares",
+        "element": "Physical",
+        "beta": false
     },
     "1031": {
         "id": "1031",
         "name": "Nicole",
         "full_name": "Nicole Demara",
         "icon_url": "https://static.dotgg.gg/zenless/characters/nicole.webp",
-        "faction": "Cunning Hares"
+        "faction": "Cunning Hares",
+        "element": "Ether",
+        "beta": false
     },
     "1041": {
         "id": "1041",
         "name": "Soldier 11",
         "full_name": "Soldier 11",
         "icon_url": "https://static.dotgg.gg/zenless/characters/soldier-11.webp",
-        "faction": "Obol Squad"
+        "faction": "Obol Squad",
+        "element": "Fire",
+        "beta": false
     },
     "1061": {
         "id": "1061",
         "name": "Corin",
         "full_name": "Corin Wickes",
         "icon_url": "https://static.dotgg.gg/zenless/characters/corin.webp",
-        "faction": "Victoria Housekeeping Co."
+        "faction": "Victoria Housekeeping Co.",
+        "element": "Physical",
+        "beta": false
     },
     "1081": {
         "id": "1081",
         "name": "Billy",
         "full_name": "Billy Kid",
         "icon_url": "https://static.dotgg.gg/zenless/characters/billy.webp",
-        "faction": "Cunning Hares"
+        "faction": "Cunning Hares",
+        "element": "Physical",
+        "beta": false
     },
     "1091": {
         "id": "1091",
         "name": "Miyabi",
         "full_name": "Hoshimi Miyabi",
         "icon_url": "https://static.dotgg.gg/zenless/characters/miyabi.webp",
-        "faction": "Hollow Special Operations Section 6"
+        "faction": "Hollow Special Operations Section 6",
+        "element": "Ice",
+        "beta": true
     },
     "1101": {
         "id": "1101",
         "name": "Koleda",
         "full_name": "Koleda Belobog",
         "icon_url": "https://static.dotgg.gg/zenless/characters/koleda.webp",
-        "faction": "Belobog Heavy Industries"
+        "faction": "Belobog Heavy Industries",
+        "element": "Fire",
+        "beta": false
     },
     "1111": {
         "id": "1111",
         "name": "Anton",
         "full_name": "Anton Ivanov",
         "icon_url": "https://static.dotgg.gg/zenless/characters/anton.webp",
-        "faction": "Belobog Heavy Industries"
+        "faction": "Belobog Heavy Industries",
+        "element": "Electric",
+        "beta": false
     },
     "1121": {
         "id": "1121",
         "name": "Ben",
         "full_name": "Ben Bigger",
         "icon_url": "https://static.dotgg.gg/zenless/characters/ben.webp",
-        "faction": "Belobog Heavy Industries"
+        "faction": "Belobog Heavy Industries",
+        "element": "Fire",
+        "beta": false
     },
     "1131": {
         "id": "1131",
         "name": "Soukaku",
         "full_name": "Soukaku",
         "icon_url": "https://static.dotgg.gg/zenless/characters/soukaku.webp",
-        "faction": "Hollow Special Operations Section 6"
+        "faction": "Hollow Special Operations Section 6",
+        "element": "Ice",
+        "beta": false
     },
     "1141": {
         "id": "1141",
         "name": "Lycaon",
         "full_name": "Von Lycaon",
         "icon_url": "https://static.dotgg.gg/zenless/characters/lycaon.webp",
-        "faction": "Victoria Housekeeping Co."
+        "faction": "Victoria Housekeeping Co.",
+        "element": "Ice",
+        "beta": false
     },
     "1151": {
         "id": "1151",
         "name": "Lucy",
         "full_name": "Luciana de Montefio",
         "icon_url": "https://static.dotgg.gg/zenless/characters/lucy.webp",
-        "faction": "Sons of Calydon"
+        "faction": "Sons of Calydon",
+        "element": "Fire",
+        "beta": false
     },
     "1161": {
         "id": "1161",
         "name": "Lighter",
         "full_name": "Lighter",
         "icon_url": "https://static.dotgg.gg/zenless/characters/lighter.webp",
-        "faction": "Sons of Calydon"
+        "faction": "Sons of Calydon",
+        "element": "Fire",
+        "beta": true
     },
     "1181": {
         "id": "1181",
         "name": "Grace",
         "full_name": "Grace Howard",
         "icon_url": "https://static.dotgg.gg/zenless/characters/grace.webp",
-        "faction": "Belobog Heavy Industries"
+        "faction": "Belobog Heavy Industries",
+        "element": "Electric",
+        "beta": false
     },
     "1191": {
         "id": "1191",
         "name": "Ellen",
         "full_name": "Ellen Joe",
         "icon_url": "https://static.dotgg.gg/zenless/characters/ellen.webp",
-        "faction": "Victoria Housekeeping Co."
+        "faction": "Victoria Housekeeping Co.",
+        "element": "Ice",
+        "beta": false
     },
     "1201": {
         "id": "1201",
         "name": "Harumasa",
         "full_name": "Asaba Harumasa",
         "icon_url": "https://static.dotgg.gg/zenless/characters/harumasa.webp",
-        "faction": "Hollow Special Operations Section 6"
+        "faction": "Hollow Special Operations Section 6",
+        "element": "Electric",
+        "beta": true
     },
     "1211": {
         "id": "1211",
         "name": "Rina",
         "full_name": "Alexandrina Sebastiane",
         "icon_url": "https://static.dotgg.gg/zenless/characters/rina.webp",
-        "faction": "Victoria Housekeeping Co."
+        "faction": "Victoria Housekeeping Co.",
+        "element": "Electric",
+        "beta": false
     },
     "1221": {
         "id": "1221",
         "name": "Yanagi",
         "full_name": "Tsukishiro Yanagi",
         "icon_url": "https://static.dotgg.gg/zenless/characters/yanagi.webp",
-        "faction": "Hollow Special Operations Section 6"
+        "faction": "Hollow Special Operations Section 6",
+        "element": "Electric",
+        "beta": true
     },
     "1241": {
         "id": "1241",
         "name": "Zhu Yuan",
         "full_name": "Zhu Yuan",
         "icon_url": "https://static.dotgg.gg/zenless/characters/zhu-yuan.webp",
-        "faction": "New Eridu Public Security"
+        "faction": "New Eridu Public Security",
+        "element": "Ether",
+        "beta": false
     },
     "1251": {
         "id": "1251",
         "name": "Qingyi",
         "full_name": "Qingyi",
         "icon_url": "https://static.dotgg.gg/zenless/characters/qingyi.webp",
-        "faction": "New Eridu Public Security"
+        "faction": "New Eridu Public Security",
+        "element": "Electric",
+        "beta": true
     },
     "1271": {
         "id": "1271",
         "name": "Seth",
         "full_name": "Seth Lowell",
         "icon_url": "https://static.dotgg.gg/zenless/characters/seth.webp",
-        "faction": "New Eridu Public Security"
+        "faction": "New Eridu Public Security",
+        "element": "Electric",
+        "beta": true
     },
     "1281": {
         "id": "1281",
         "name": "Piper",
         "full_name": "Piper Wheel",
         "icon_url": "https://static.dotgg.gg/zenless/characters/piper.webp",
-        "faction": "Sons of Calydon"
+        "faction": "Sons of Calydon",
+        "element": "Physical",
+        "beta": false
     }
 }
