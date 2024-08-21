@@ -44,6 +44,15 @@
         "element": "Physical",
         "beta": false
     },
+    "1071": {
+        "id": "1071",
+        "name": "Caesar",
+        "full_name": "Caesar",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/caesar.webp",
+        "faction": "Sons of Calydon",
+        "element": "Physical",
+        "beta": true
+    },
     "1081": {
         "id": "1081",
         "name": "Billy",
@@ -125,6 +134,15 @@
         "element": "Fire",
         "beta": true
     },
+    "1171": {
+        "id": "1171",
+        "name": "Burnice",
+        "full_name": "Burnice White",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/burnice.webp",
+        "faction": "Sons of Calydon",
+        "element": "Fire",
+        "beta": true
+    },
     "1181": {
         "id": "1181",
         "name": "Grace",
@@ -186,7 +204,16 @@
         "icon_url": "https://static.dotgg.gg/zenless/characters/qingyi.webp",
         "faction": "New Eridu Public Security",
         "element": "Electric",
-        "beta": true
+        "beta": false
+    },
+    "1261": {
+        "id": "1261",
+        "name": "Jane",
+        "full_name": "Jane Doe",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/jane.webp",
+        "faction": "New Eridu Public Security",
+        "element": "Physical",
+        "beta": false
     },
     "1271": {
         "id": "1271",
@@ -195,7 +222,7 @@
         "icon_url": "https://static.dotgg.gg/zenless/characters/seth.webp",
         "faction": "New Eridu Public Security",
         "element": "Electric",
-        "beta": true
+        "beta": false
     },
     "1281": {
         "id": "1281",
