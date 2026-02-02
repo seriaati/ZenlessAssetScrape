@@ -3,4 +3,6 @@ hakush.in released their [ZZZ companion](https://zzz.hakush.in/) and you should 
 I won't be archiving this repo just yet, in case someone still relies on it.
 
 # ZenlessAssetScrape
- Zenless Zone Zero asset scrape
+Originally made for [Hoyo Buddy](https://hb.seria.moe) to get basic game data for Zenless Zone Zero.
+
+Scrapes character, weapon, and drive disc data from dotgg and hoyowiki.
