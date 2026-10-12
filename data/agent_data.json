@@ -35,6 +35,15 @@
         "element": "Fire",
         "beta": false
     },
+    "1051": {
+        "id": "1051",
+        "name": "Yidhari",
+        "full_name": "Yidhari Murphy",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/yidhari.webp",
+        "faction": "Spook Shack",
+        "element": "Ice",
+        "beta": false
+    },
     "1061": {
         "id": "1061",
         "name": "Corin",
@@ -47,11 +56,11 @@
     "1071": {
         "id": "1071",
         "name": "Caesar",
-        "full_name": "Caesar",
+        "full_name": "Caesar King",
         "icon_url": "https://static.dotgg.gg/zenless/characters/caesar.webp",
         "faction": "Sons of Calydon",
         "element": "Physical",
-        "beta": true
+        "beta": false
     },
     "1081": {
         "id": "1081",
@@ -69,7 +78,7 @@
         "icon_url": "https://static.dotgg.gg/zenless/characters/miyabi.webp",
         "faction": "Hollow Special Operations Section 6",
         "element": "Ice",
-        "beta": true
+        "beta": false
     },
     "1101": {
         "id": "1101",
@@ -132,7 +141,7 @@
         "icon_url": "https://static.dotgg.gg/zenless/characters/lighter.webp",
         "faction": "Sons of Calydon",
         "element": "Fire",
-        "beta": true
+        "beta": false
     },
     "1171": {
         "id": "1171",
@@ -141,7 +150,7 @@
         "icon_url": "https://static.dotgg.gg/zenless/characters/burnice.webp",
         "faction": "Sons of Calydon",
         "element": "Fire",
-        "beta": true
+        "beta": false
     },
     "1181": {
         "id": "1181",
@@ -168,7 +177,7 @@
         "icon_url": "https://static.dotgg.gg/zenless/characters/harumasa.webp",
         "faction": "Hollow Special Operations Section 6",
         "element": "Electric",
-        "beta": true
+        "beta": false
     },
     "1211": {
         "id": "1211",
@@ -186,7 +195,7 @@
         "icon_url": "https://static.dotgg.gg/zenless/characters/yanagi.webp",
         "faction": "Hollow Special Operations Section 6",
         "element": "Electric",
-        "beta": true
+        "beta": false
     },
     "1241": {
         "id": "1241",
@@ -231,6 +240,303 @@
         "icon_url": "https://static.dotgg.gg/zenless/characters/piper.webp",
         "faction": "Sons of Calydon",
         "element": "Physical",
+        "beta": false
+    },
+    "1291": {
+        "id": "1291",
+        "name": "Hugo",
+        "full_name": "Hugo Vlad",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/hugo.webp",
+        "faction": "Mockingbird",
+        "element": "Ice",
+        "beta": false
+    },
+    "1301": {
+        "id": "1301",
+        "name": "Orphie & Magus",
+        "full_name": "Orphie Magnusson & Magus",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/orphie-magus.webp",
+        "faction": "Obol Squad",
+        "element": "Fire",
+        "beta": false
+    },
+    "1311": {
+        "id": "1311",
+        "name": "Astra Yao",
+        "full_name": "Astra Yao",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/astra-yao.webp",
+        "faction": "Stars of Lyra",
+        "element": "Ether",
+        "beta": false
+    },
+    "1321": {
+        "id": "1321",
+        "name": "Evelyn",
+        "full_name": "Evelyn Chevalier",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/evelyn.webp",
+        "faction": "Stars of Lyra",
+        "element": "Fire",
+        "beta": false
+    },
+    "1331": {
+        "id": "1331",
+        "name": "Vivian",
+        "full_name": "Vivian Banshee",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/vivian.webp",
+        "faction": "Mockingbird",
+        "element": "Ether",
+        "beta": false
+    },
+    "1341": {
+        "id": "1341",
+        "name": "Zhao",
+        "full_name": "Zhao",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/zhao.webp",
+        "faction": "Krampus Compliance Authority",
+        "element": "Ice",
+        "beta": false
+    },
+    "1351": {
+        "id": "1351",
+        "name": "Pulchra",
+        "full_name": "Pulchra Fellini",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/pulchra.webp",
+        "faction": "Sons of Calydon",
+        "element": "Physical",
+        "beta": false
+    },
+    "1361": {
+        "id": "1361",
+        "name": "Trigger",
+        "full_name": "Trigger",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/trigger.webp",
+        "faction": "Obol Squad",
+        "element": "Electric",
+        "beta": false
+    },
+    "1371": {
+        "id": "1371",
+        "name": "Yixuan",
+        "full_name": "Yixuan",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/yixuan.webp",
+        "faction": "Yunkui Summit",
+        "element": "Ether",
+        "beta": false
+    },
+    "1381": {
+        "id": "1381",
+        "name": "Soldier 0 - Anby",
+        "full_name": "Soldier 0 - Anby",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/soldier-0-anby.webp",
+        "faction": "Obol Squad",
+        "element": "Electric",
+        "beta": false
+    },
+    "1391": {
+        "id": "1391",
+        "name": "Ju Fufu",
+        "full_name": "Ju Fufu",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/ju-fufu.webp",
+        "faction": "Yunkui Summit",
+        "element": "Fire",
+        "beta": false
+    },
+    "1401": {
+        "id": "1401",
+        "name": "Alice",
+        "full_name": "Alice Thymefield",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/alice.webp",
+        "faction": "Spook Shack",
+        "element": "Physical",
+        "beta": false
+    },
+    "1411": {
+        "id": "1411",
+        "name": "Yuzuha",
+        "full_name": "Ukinami Yuzuha",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/yuzuha.webp",
+        "faction": "Spook Shack",
+        "element": "Physical",
+        "beta": false
+    },
+    "1421": {
+        "id": "1421",
+        "name": "Pan Yinhu",
+        "full_name": "Pan Yinhu",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/pan-yinhu.webp",
+        "faction": "Yunkui Summit",
+        "element": "Physical",
+        "beta": false
+    },
+    "1431": {
+        "id": "1431",
+        "name": "Ye Shunguang",
+        "full_name": "Ye Shunguang",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/ye-shunguang.webp",
+        "faction": "Yunkui Summit",
+        "element": "Physical",
+        "beta": false
+    },
+    "1441": {
+        "id": "1441",
+        "name": "Manato",
+        "full_name": "Komano Manato",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/manato.webp",
+        "faction": "Spook Shack",
+        "element": "Fire",
+        "beta": false
+    },
+    "1451": {
+        "id": "1451",
+        "name": "Lucia",
+        "full_name": "Lucia Elowen",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/lucia.webp",
+        "faction": "Spook Shack",
+        "element": "Ether",
+        "beta": false
+    },
+    "1461": {
+        "id": "1461",
+        "name": "Seed",
+        "full_name": "Seed",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/seed.webp",
+        "faction": "Obol Squad",
+        "element": "Electric",
+        "beta": false
+    },
+    "1471": {
+        "id": "1471",
+        "name": "Banyue",
+        "full_name": "Banyue",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/banyue.webp",
+        "faction": "Krampus Compliance Authority",
+        "element": "Fire",
+        "beta": false
+    },
+    "1481": {
+        "id": "1481",
+        "name": "Dialyn",
+        "full_name": "Dialyn",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/dialyn.webp",
+        "faction": "Krampus Compliance Authority",
+        "element": "Physical",
+        "beta": false
+    },
+    "1491": {
+        "id": "1491",
+        "name": "Sunna",
+        "full_name": "Sunna",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/sunna.webp",
+        "faction": "Angels of Delusion",
+        "element": "Physical",
+        "beta": false
+    },
+    "1501": {
+        "id": "1501",
+        "name": "Aria",
+        "full_name": "Aria",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/aria.webp",
+        "faction": "Angels of Delusion",
+        "element": "Ether",
+        "beta": false
+    },
+    "1511": {
+        "id": "1511",
+        "name": "Nangong Yu",
+        "full_name": "Nangong Yu",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/nangong-yu.webp",
+        "faction": "Angels of Delusion",
+        "element": "Ether",
+        "beta": false
+    },
+    "1521": {
+        "id": "1521",
+        "name": "Cissia",
+        "full_name": "Cissia",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/cissia.webp",
+        "faction": "New Eridu Public Security",
+        "element": "Electric",
+        "beta": false
+    },
+    "1531": {
+        "id": "1531",
+        "name": "Starlight - Billy",
+        "full_name": "Starlight - Billy",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/starlight-billy.webp",
+        "faction": "Cunning Hares",
+        "element": "Physical",
+        "beta": false
+    },
+    "1541": {
+        "id": "1541",
+        "name": "Promeia",
+        "full_name": "Promeia",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/promeia.webp",
+        "faction": "Krampus Compliance Authority",
+        "element": "Ice",
+        "beta": false
+    },
+    "1551": {
+        "id": "1551",
+        "name": "Pyrois",
+        "full_name": "Pyrois",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/pyrois.webp",
+        "faction": "Phaethon",
+        "element": "Ether",
+        "beta": false
+    },
+    "1561": {
+        "id": "1561",
+        "name": "Velina",
+        "full_name": "Velina Airgid",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/velina.webp",
+        "faction": "Roscaelifer",
+        "element": "Wind",
+        "beta": false
+    },
+    "1571": {
+        "id": "1571",
+        "name": "Norma",
+        "full_name": "Norma Hollowell",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/norma.webp",
+        "faction": "Roscaelifer",
+        "element": "Fire",
+        "beta": false
+    },
+    "1581": {
+        "id": "1581",
+        "name": "Remielle",
+        "full_name": "Remielle Dan",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/remielle.webp",
+        "faction": "Covenant of Dayat",
+        "element": "Lumiflux",
+        "beta": false
+    },
+    "1591": {
+        "id": "1591",
+        "name": "Sigrid",
+        "full_name": "Sigrid de L'Azur",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/sigrid.webp",
+        "faction": "Roscaelifer",
+        "element": "Ice",
+        "beta": false
+    },
+    "1611": {
+        "id": "1611",
+        "name": "Claret",
+        "full_name": "Claret Flint",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/claret.webp",
+        "faction": "Roscaelifer",
+        "element": "Electric",
+        "beta": false
+    },
+    "1621": {
+        "id": "1621",
+        "name": "Roxy",
+        "full_name": "Roxy Ifrita Pryce",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/roxy.webp",
+        "faction": "Roscaelifer",
+        "element": "Wind",
         "beta": false
     }
 }
