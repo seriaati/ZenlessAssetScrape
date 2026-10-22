@@ -538,5 +538,23 @@
         "faction": "Roscaelifer",
         "element": "Wind",
         "beta": false
+    },
+    "1631": {
+        "id": "1631",
+        "name": "Severian",
+        "full_name": "Severian Lowell",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/severian.webp",
+        "faction": "New Eridu Public Security",
+        "element": "Wind",
+        "beta": false
+    },
+    "1641": {
+        "id": "1641",
+        "name": "Phoenix",
+        "full_name": "Phoenix Reffaella",
+        "icon_url": "https://static.dotgg.gg/zenless/characters/phoenix.webp",
+        "faction": "Krampus Compliance Authority",
+        "element": "Fire",
+        "beta": false
     }
 }
